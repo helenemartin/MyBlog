@@ -135,7 +135,11 @@ a:visited { color: #a0a; }
 }
 
 .post ul, .post ol {
-  margin-left: 1.35em;
+  color: #646464;
+list-style-type: circle;
+font: 1.1875em/1.6em 'Josefin Sans', sans-serif;
+margin: 20px 0;
+overflow: hidden
 }
 
 .post code {
